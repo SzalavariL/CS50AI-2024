@@ -35,3 +35,11 @@ Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c
 Q.idea/sonarlint/securityhotspotstore/7/a/7a651f7f558e6d70415e9204f0dbc9197fc34d6e,e/0/e0128d76cfa52bf5e84ab8511ce0d46bf66d5351
 Å
 Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,b/b/bbf202272a96de5cd6b6828ffdc55fb3ce45289c
+8
+index.py,6/4/6472638a56b927e3afcc8451f0e14ed178d59041
+G
+.idea/Lesson_1/maze.txt,a/b/ab0ffa2f4c9dcaa8537f7cd3177c15b0ceb2fe5b
+H
+.idea/Lesson_1/maze2.txt,f/d/fd5ab2d6672cd04cf6c2ed76155ef6c3d4ca467f
+H
+.idea/Lesson_1/maze3.txt,2/b/2b18cdfcf7f41e0254152b6dcec67e740a5ce5c4
